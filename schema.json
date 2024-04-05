@@ -1,14 +1,14 @@
 {
     "nodes": [
         {
-            "node": "blah",
+            "node": "residents",
             "example": [
                 "Resident",
                 "Resident"
             ],
             "display": [
                 {
-                    "label": "blah ID",
+                    "label": "residents ID",
                     "text": "${id}",
                     "type": "text"
                 },
@@ -38,7 +38,7 @@
     "edges": [
         {
             "match": [
-                "SHARED_MEDSCHOOL"
+                "SHARED MEDSCHOOL"
             ],
             "selected": true,
             "display": [
